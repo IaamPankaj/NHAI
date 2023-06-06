@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/Home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home"/>
+
+        <item android:id="@+id/Dashboard"
+            android:icon="@drawable/ic_baseline_computer_24"
+            android:title="Dashboard"/>
+
+        <item android:id="@+id/Profile"
+            android:icon="@drawable/ic_baseline_person_outline_24"
+            android:title="Profile"/>
+
+        <item android:id="@+id/About"
+            android:icon="@drawable/ic_baseline_local_atm_24"
+            android:title="About"/>
+
+    </group>
+
+    <group
+
+        android:checkableBehavior="single">
+
+        <item android:title="Authentication">
+
+            <menu>
+
+                <item android:id="@+id/Liogn"
+                    android:icon="@drawable/ic_baseline_home_24"
+                    android:title="Login"/>
+
+                <item android:id="@+id/Logout"
+                    android:icon="@drawable/ic_baseline_computer_24"
+                    android:title="Logout"/>
+
+
+
+            </menu>
+
+        </item>
+
+
+    </group>
+
+
+</menu>

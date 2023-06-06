@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutPage">
+
+    <TextView
+        android:id="@+id/why"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Why Choose NHAI"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:padding="20dp"
+        android:textAlignment="center"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="15dp"
+        android:layout_below="@id/why">
+
+        <LinearLayout
+            android:id="@+id/LL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:src="@drawable/highway"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="National Highway Authority of India was set up by an act of the parliament,NHAI Act,1988.An Act to provide for the contribution of an Authority for the development,maintenance and management of national highways and for matter connected therewith or incidental thereto.It has been entrusted with National Highways Development Project which alongwith other minor projects has vested in it 50329 kms of National Highway for Development,mainantaince and management.Our objectives is to ensure that all contract awards and procurements conform to the best industry practices with regrad to transparency of process,adoption of bid criteria to ensure healthy competition in award of contracts,implementation of project conform to best quality requirements and the highway system is maintained to ensure best user comfort and convenience."
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/medal"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:padding="10dp"
+                android:text="To meet the Nation's need for provision and maintenance of National Highways network to globel standards and to meet the user's expectations in the most time-bound and cost-effective manner,within the strategic policy framework set by the Government of India and thus promote economic well-being and quality of life of the people."/>
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/circle"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:paddingBottom="10dp"
+                android:autoText="true"
+                android:text="To develop,maintain and manage National Highways vested in it by the Government.To collect fees on National Highways ,regulate and control the plying of vehicles on National Highways for its proper management.To develop and provide consultancy and construction services in India and abroad and carry on reseach activity in relation to the development."
+                android:padding="10dp"/>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="15dp"
+                android:background="@color/black">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Useful links"
+                    android:textSize="20dp"
+                    android:textColor="@color/white"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="About"
+                    android:textSize="18dp"
+                    android:paddingTop="15dp"
+                    android:paddingLeft="10dp"
+                    android:textColor="@color/white"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Login"
+                    android:textSize="18dp"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="8dp"
+                    android:textColor="@color/white"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Register"
+                    android:textSize="18dp"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="8dp"
+                    android:textColor="@color/white"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Contacts"
+                    android:textSize="18dp"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="8dp"
+                    android:textColor="@color/white"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="15dp"
+                android:background="@color/black">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Contact with us"
+                    android:textSize="20dp"
+                    android:paddingTop="10dp"
+                    android:textColor="@color/white"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:src="@drawable/ic_baseline_phone_android_24" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="+91 9653281009"
+                        android:textColor="@color/white"
+                        android:paddingLeft="10dp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="10dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:src="@drawable/ic_baseline_email_24" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="info@Nhai.com"
+                        android:textColor="@color/white"
+                        android:paddingLeft="10dp"/>
+
+<!--                    <LinearLayout-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:orientation="horizontal"-->
+<!--                        android:background="@color/black"-->
+<!--                        android:paddingTop="15dp">-->
+
+<!--                        <TextView-->
+<!--                            android:layout_width="wrap_content"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:paddingLeft="10dp"-->
+<!--                            android:textColor="@color/white"-->
+<!--                            android:text="Terms and Conditions"/>-->
+<!--                        <TextView-->
+<!--                            android:layout_width="wrap_content"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:paddingLeft="15dp"-->
+<!--                            android:textColor="@color/white"-->
+<!--                            android:text="Privacy"/>-->
+
+
+<!--                        <TextView-->
+<!--                            android:layout_width="wrap_content"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:textColor="@color/white"-->
+<!--                            android:gravity="center"-->
+<!--                            android:paddingLeft="15dp"-->
+<!--                            android:text="2020 NHAI"-->
+<!--                            android:drawableTint="@color/white"-->
+<!--                            android:drawableLeft="@drawable/ic_baseline_copyright_24"-->
+<!--                            />-->
+
+<!--                    </LinearLayout>-->
+
+
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+</RelativeLayout>

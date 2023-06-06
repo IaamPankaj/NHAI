@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">RegistrationPage</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="goole_map_key"></string>
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+    <string-array name="menu">
+        <item> Home"
+
+        </item>
+        <item>Service</item>
+        <item>Translator</item>
+        <item>Dashboard"
+           </item>
+        <item>Profile
+            </item>
+        <item>About
+            </item>
+        <item>Contacts</item>
+
+    </string-array>
+
+    <string-array name="type">
+        <item>Select Room</item>
+        <item>Single Bed Room</item>
+        <item>Double Bed Room</item>
+        <item>Delux Bed Room</item>
+        <item>Super Delux Bed Room</item>
+    </string-array>
+
+
+    <string name="title_activity_near_maps">NearMaps</string>
+
+    <string name="title_activity_voice">Voice</string>
+    <string name="tap_mic_and_speek">tap_mic_and_speek</string>
+
+    <color name="black_shade_1">#292D36</color>
+    <color name="yellow">#ffa500</color>
+
+    <string name="navigration_open">Open Navigation drawer</string>
+    <string name="navigration_closed">Closed Navigation drawer</string>
+
+
+</resources>

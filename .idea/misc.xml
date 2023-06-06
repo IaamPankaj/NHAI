@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_about_page.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_chat_bot.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_contact_page.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_final.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_home2.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_home_page.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_hotel_demo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_hotel_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_language_translator.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_log1.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_near_maps.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_new_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_personal_info.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_restrauant_demo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_room_info.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_second.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_third.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_translator.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/activity_voice.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/bot_msg_rv_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/headerfile.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/spinner_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/spinner_item1.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Pankaj/Downloads/RegistrationPage/app/src/main/res/layout/user_msg_rv_item.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
